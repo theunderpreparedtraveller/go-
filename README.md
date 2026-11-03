@@ -1,2 +1,1 @@
-# go-
-Go shit
+Go powered trading tools
